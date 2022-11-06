@@ -1,2 +1,2 @@
-# Miroyo-s-portfolio
+# Miroyo-analytics-portfolio
 Data analytics portfolio
